@@ -1,6 +1,6 @@
 # Hi there, I'm Aditya Harsh 👋
 
-I am a **Final Year B.Sc. (Hons) [cite_start]Computer Science student** at **Unitedworld Institute of Technology (Karnavati University)**, graduating in 2026[cite: 38, 39, 81]. 
+I am a **Final Year B.Sc. (Hons) [cite_start]Computer Science student** at **Unitedworld Institute of Technology (Karnavati University)**, graduating in 2026.
 
 I specialize in the intersection of **Data Analytics**, **Cloud Infrastructure**, and **AI/ML**. My work focuses on building scalable cloud solutions and deriving actionable insights from complex datasets.
 
@@ -8,9 +8,9 @@ I specialize in the intersection of **Data Analytics**, **Cloud Infrastructure**
 
 ### 🚀 **Professional Summary**
 - 🎓 **Education:** B.Sc. (Hons) Computer Science (Final Year).
-- [cite_start]🔬 **Research:** Co-authored IEEE-accepted papers on **IoT Structural Health Monitoring** and **Cryptographic Hash Functions**.
-- [cite_start]☁️ **Cloud Specialist:** Certified Foundation Associate in **Oracle (OCI)** and **AWS Academy Graduate**[cite: 104].
-- [cite_start]🤖 **Experience:** Former AI/ML Intern at **Elevate Labs** and AWS Cloud Intern at **Internship Studio**[cite: 16, 22].
+- 🔬 **Research:** Co-authored IEEE-accepted papers on **IoT Structural Health Monitoring** and **Cryptographic Hash Functions**.
+- ☁️ **Cloud Specialist:** Certified Foundation Associate in **Oracle (OCI)** and **AWS Academy Graduate**.
+- 🤖 **Experience:** Former AI/ML Intern at **Elevate Labs** and AWS Cloud Intern at **Internship Studio**.
 
 ---
 
@@ -27,47 +27,42 @@ I specialize in the intersection of **Data Analytics**, **Cloud Infrastructure**
 
 ### 📝 **Featured Research & Publications**
 
-> [cite_start]**Structural Health Monitoring (SHM) using IoT** > *Accepted Nov 2025*   
+> **Structural Health Monitoring (SHM) using IoT** > *Accepted Nov 2025*   
 > Co-authored a paper on sensor-based monitoring systems, focusing on data transmission and analysis constraints.
 
-> [cite_start]**Evolution and Comparative Analysis of Cryptographic Hash Functions** > *Nov 2025* [cite: 233]  
+> **Evolution and Comparative Analysis of Cryptographic Hash Functions** > *Nov 2025*  
 > Conducted a systematic review of post-quantum standards (ML-DSA, SLH-DSA) and analyzed multi-core performance of BLAKE3 vs SHA-256.
 
 ---
 
 ### 💻 **Key Projects**
 
-#### 🧠 [Automatic Number Plate Recognition (ANPR)](https://github.com/adityaharshsingh7)
+#### 🧠 [Automatic Number Plate Recognition (ANPR)](https://github.com/adityaharshsingh7/ANPR.git)
 * **Tech:** Python, OpenCV, YOLO
-* [cite_start]**Description:** Implemented computer vision algorithms to detect vehicle plates with **90%+ accuracy**, creating an end-to-end real-time identification pipeline[cite: 26, 27].
+* **Description:** Implemented computer vision algorithms to detect vehicle plates with **90%+ accuracy**, creating an end-to-end real-time identification pipeline.
 
 #### ☁️ [AWS Chatbot Integration](https://github.com/adityaharshsingh7)
 * **Tech:** Amazon Lex, AWS Amplify, NLP
-* [cite_start]**Description:** Developed an intelligent chatbot using NLP and deployed it on **AWS Amplify** for scalable, automated customer interactions[cite: 32, 33].
+* **Description:** Developed an intelligent chatbot using NLP and deployed it on **AWS Amplify** for scalable, automated customer interactions.
 
-#### 📊 [Customer Churn & Revenue Risk Analysis](https://github.com/adityaharshsingh7)
+#### 📊 [Ecommerce Customer Retention Analysis](https://github.com/adityaharshsingh7/Ecommerce-retention-analysis.git)
 * **Tech:** SQL (Window Functions), Python, Power BI
-* [cite_start]**Description:** Performed cohort and retention analysis to quantify churn impact, utilizing **Root Cause Analysis** to identify drivers of customer disengagement[cite: 75, 76].
+* **Description:** Performed cohort and retention analysis to quantify churn impact, utilizing **Root Cause Analysis** to identify drivers of customer disengagement.
 
-#### 🌐 [Multimodal RAG Explorer](https://github.com/adityaharshsingh7)
+#### 📊 [HR Analytics Dashboard](https://github.com/adityaharshsingh7/HR-Analytics-Dashboard.git)
 * **Tech:** Vertex AI, Gemini API
-* [cite_start]**Description:** Prototyped a context-aware retrieval system to inspect rich documents using Google's Gemini Multimodality[cite: 35].
+* **Description:** Prototyped a context-aware retrieval system to inspect rich documents using Google's Gemini Multimodality.
 
 ---
 
 ### 🏆 **Certifications**
-* [cite_start]**Oracle Cloud Infrastructure (OCI)** 2025 Certified Foundations Associate[cite: 104].
-* **AWS Academy Graduate** - Cloud Foundations[cite: 86].
-* [cite_start]**Google:** Data Analytics in Google Cloud & Develop GenAI Apps with Gemini[cite: 43, 84].
-* [cite_start]**Power BI & Tableau Certification** (Simplilearn/Data Flair)[cite: 85].
+* **Oracle Cloud Infrastructure (OCI)** 2025 Certified Foundations Associate.
+* **AWS Academy Graduate** - Cloud Foundations.
+* **Google:** Data Analytics in Google Cloud & Develop GenAI Apps with Gemini.
+* **Power BI & Tableau Certification** (Simplilearn/Data Flair).
 
 ---
 
-### 📊 **GitHub Stats**
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaharshsingh7&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaharshsingh7&layout=compact&theme=radical)
-
----
 
 ### 📫 **Connect With Me**
 <p align="left">
