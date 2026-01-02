@@ -1,6 +1,6 @@
-# Hi there, I'm Aditya Harsh 👋
+# Hi there, I'm Aditya👋
 
-I am a **Final Year B.Sc. (Hons) [cite_start]Computer Science student** at **Unitedworld Institute of Technology (Karnavati University)**, graduating in 2026.
+I am a **Final Year B.Sc. (Hons) Computer Science student** at **Unitedworld Institute of Technology (Karnavati University)**, graduating in 2026.
 
 I specialize in the intersection of **Data Analytics**, **Cloud Infrastructure**, and **AI/ML**. My work focuses on building scalable cloud solutions and deriving actionable insights from complex datasets.
 
