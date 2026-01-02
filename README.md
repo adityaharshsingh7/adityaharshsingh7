@@ -1,48 +1,76 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Aditya Harsh 👋
 
-I am a **Final Year B.Sc. (Hons) Computer Science student** at **Karnavati University** (Class of 2026), driven by a passion for uncovering insights through **Data Analytics** and building scalable solutions on the **Cloud**.
+I am a **Final Year B.Sc. (Hons) [cite_start]Computer Science student** at **Unitedworld Institute of Technology (Karnavati University)**, graduating in 2026[cite: 38, 39, 81]. 
 
----
-
-### 🚀 About Me
-- 🎓 **Education:** Final year CS Student at Karnavati University.
-- 📊 **Core Interest:** Data Analytics and leveraging Cloud infrastructure for data-driven decisions.
-- 🔬 **Research:** Co-authored a literature review on **"Structural Health Monitoring (SHM) using IoT"** (Accepted by IEEE).
-- 💡 **Current Focus:** Deepening my knowledge in **Data Structures & Algorithms (DSA)** using C++.
-- 🎯 **Goal:** Seeking opportunities in Data Analytics and Cloud Engineering.
+I specialize in the intersection of **Data Analytics**, **Cloud Infrastructure**, and **AI/ML**. My work focuses on building scalable cloud solutions and deriving actionable insights from complex datasets.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-**Cloud Platforms**
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-**Programming & Data**
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🚀 **Professional Summary**
+- 🎓 **Education:** B.Sc. (Hons) Computer Science (Final Year).
+- [cite_start]🔬 **Research:** Co-authored IEEE-accepted papers on **IoT Structural Health Monitoring** and **Cryptographic Hash Functions**.
+- [cite_start]☁️ **Cloud Specialist:** Certified Foundation Associate in **Oracle (OCI)** and **AWS Academy Graduate**[cite: 104].
+- [cite_start]🤖 **Experience:** Former AI/ML Intern at **Elevate Labs** and AWS Cloud Intern at **Internship Studio**[cite: 16, 22].
 
 ---
 
-### 📜 Certifications & Achievements
-- **IEEE Research Paper:** Structural Health Monitoring (SHM) using IoT.
-- **Google Cloud:** Introduction to Data Analytics in Google Cloud (Earned Dec 2025).
-- **Cloud Certifications:** Foundational knowledge in AWS and OCI.
+### 🛠️ **Tech Stack & Arsenal**
+
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) |
+| **AI & ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat) |
+| **Data Viz** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) |
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical)
+### 📝 **Featured Research & Publications**
+
+> [cite_start]**Structural Health Monitoring (SHM) using IoT** > *Accepted Nov 2025*   
+> Co-authored a paper on sensor-based monitoring systems, focusing on data transmission and analysis constraints.
+
+> [cite_start]**Evolution and Comparative Analysis of Cryptographic Hash Functions** > *Nov 2025* [cite: 233]  
+> Conducted a systematic review of post-quantum standards (ML-DSA, SLH-DSA) and analyzed multi-core performance of BLAKE3 vs SHA-256.
 
 ---
 
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[YOUR_LINKEDIN_ID])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+### 💻 **Key Projects**
+
+#### 🧠 [Automatic Number Plate Recognition (ANPR)](https://github.com/adityaharshsingh7)
+* **Tech:** Python, OpenCV, YOLO
+* [cite_start]**Description:** Implemented computer vision algorithms to detect vehicle plates with **90%+ accuracy**, creating an end-to-end real-time identification pipeline[cite: 26, 27].
+
+#### ☁️ [AWS Chatbot Integration](https://github.com/adityaharshsingh7)
+* **Tech:** Amazon Lex, AWS Amplify, NLP
+* [cite_start]**Description:** Developed an intelligent chatbot using NLP and deployed it on **AWS Amplify** for scalable, automated customer interactions[cite: 32, 33].
+
+#### 📊 [Customer Churn & Revenue Risk Analysis](https://github.com/adityaharshsingh7)
+* **Tech:** SQL (Window Functions), Python, Power BI
+* [cite_start]**Description:** Performed cohort and retention analysis to quantify churn impact, utilizing **Root Cause Analysis** to identify drivers of customer disengagement[cite: 75, 76].
+
+#### 🌐 [Multimodal RAG Explorer](https://github.com/adityaharshsingh7)
+* **Tech:** Vertex AI, Gemini API
+* [cite_start]**Description:** Prototyped a context-aware retrieval system to inspect rich documents using Google's Gemini Multimodality[cite: 35].
 
 ---
-*"The goal is to turn data into information, and information into insight."*
+
+### 🏆 **Certifications**
+* [cite_start]**Oracle Cloud Infrastructure (OCI)** 2025 Certified Foundations Associate[cite: 104].
+* **AWS Academy Graduate** - Cloud Foundations[cite: 86].
+* [cite_start]**Google:** Data Analytics in Google Cloud & Develop GenAI Apps with Gemini[cite: 43, 84].
+* [cite_start]**Power BI & Tableau Certification** (Simplilearn/Data Flair)[cite: 85].
+
+---
+
+### 📊 **GitHub Stats**
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaharshsingh7&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaharshsingh7&layout=compact&theme=radical)
+
+---
+
+### 📫 **Connect With Me**
+<p align="left">
+<a href="https://linkedin.com/in/aditya-harsh07" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aditya-harsh07" /></a>
+<a href="mailto:adityaharsh07@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="adityaharsh07" /></a>
+</p>
